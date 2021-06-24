@@ -59,7 +59,7 @@ window.initMap= () => {
 
 const fetchMarkers = async (map) =>{
   try{
-    const response = await fetch('http://localhost:3000/markers');
+    const response = await fetch('https://proyect-maps-backend.vercel.app/markers');
     const json = await response.json();
     console.log(json)
     console.log (response)
@@ -200,7 +200,7 @@ $(document).ready(function() {
   
   const deleteItem = async (id) =>{
     try {
-      const response = await fetch(`http://localhost:3000/markers/${id}`, {
+      const response = await fetch(`https://proyect-maps-backend.vercel.app/markers/${id}`, {
         method: 'DELETE'
       })
       const data = await response.json()
@@ -212,7 +212,7 @@ $(document).ready(function() {
 
   const fillForm = async id => {
     try {
-        const response = await fetch(`http://localhost:3000/marker/${id}`)
+        const response = await fetch(`https://proyect-maps-backend.vercel.app/markers/${id}`)
         const data = await response.json()
         const inputs = document.querySelector("#form_edit").elements;
         inputs["nombre"].value = data.nombre;
@@ -228,7 +228,7 @@ $(document).ready(function() {
 
   const updateItem = async (id, data) => {
     try {
-      const response = await fetch(`http://localhost:3000/markers/${id}`, {
+      const response = await fetch(`https://proyect-maps-backend.vercel.app/markers/${id}`, {
         method: 'PUT',
         headers: new Headers({'content-type': 'application/x-www-form-urlencoded'}),
         body: data
@@ -259,7 +259,7 @@ $(document).ready(function() {
   const getListItems = async () =>{
     $list.innerHTML = null
     try{
-      const response = await fetch(`http://localhost:3000/markers`)
+      const response = await fetch(`https://proyect-maps-backend.vercel.app/markers`)
       const items = await response.json();
 
       items.forEach((item) =>{
