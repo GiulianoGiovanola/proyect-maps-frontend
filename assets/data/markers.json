@@ -1,0 +1,185 @@
+[
+    {
+        "nombre": "Asociación Argentina Amigos de la Astronomía ",
+        "fundaciones": "4 de enero de 1929",
+        "descripcion": "Es una asociación de astronomía amateur con sede en Buenos Aires, Argentina, cuyo objetivo es difundir y cultivar la astronomía. Se fundó el 4 de enero de 1929 y en su ámbito se realizan cursos en materias afines, trabajos de investigación en colaboración con entidades profesionales y publicaciones impresas o en multimedios, así como actividades recreativas para el público en general.",
+        "lat": -34.60483333,
+        "lng": -58.435,
+        "type": "Centros Educativos"
+    },
+    {
+        "nombre": "Asociación Entrerriana de Astronomía",
+        "fundaciones": "24 de septiembre de 1986",
+        "descripcion": "Es una asociación civil de Astronomía amateur con sede en Entre Ríos, Argentina, fundada el 10 de abril de 1976, cuyo objetivo es difundir y estudiar la astronomía. El 24 de septiembre de 1986 se fundó su observatorio principal, construido en un terreno de 1 hectárea en el complejo Agrotécnico de la Escuela Alberdi, cedidos en ese momento por el Gobierno de la Provincia de Entre Ríos.",
+        "lat": -31.847194444444,
+        "lng": -60.518166666667,
+        "type": "Centros Educativos"
+    },
+    {
+        "nombre": "Observatorio astronómico Astrodomi",
+        "fundaciones": "Febrero de 2008",
+        "descripcion": "El nuevo observatorio está en funcionamiento desde febrero de 2008 en sus instalaciones del Talar, partido de Tigre, Provincia de Buenos Aires, Argentina. Las actividades principales del observatorio son la búsqueda de supernovas, el seguimiento de asteroides, la astrofotografía.",
+        "lat": -34.44,
+        "lng": -58.64722222,
+        "type": "Observatorios"
+    },
+    {
+        "nombre": "Observatorio Félix Aguilar",
+        "fundaciones": "1965",
+        "descripcion": "Es un observatorio astronómico en la provincia de San Juan, Argentina. El observatorio lleva el nombre de Félix Aguilar (1884–1943), un astrónomo e ingeniero argentino, que fue director del Observatorio Astronómico La Plata de 1919 a 1921, y de 1934 hasta su deceso.",
+        "lat": -31.8023,
+        "lng": -69.3265,
+        "type": "Observatorios"
+    },
+    {
+        "nombre": "Planetario Galileo Galilei",
+        "fundaciones": "13 de junio de 1967",
+        "descripcion": "Está ubicado en la intersección de Avenida General Sarmiento y Belisario Roldán, dentro del Parque Tres de Febrero, en el barrio de Palermo de la ciudad de Buenos Aires, Argentina. Se construyó con la finalidad de promulgar la divulgación de la ciencia astronómica a través de espectáculos didáctico para público general y estudiantes.",
+        "lat": -34.56972222,
+        "lng": -58.41166667,
+        "type": "Planetarios"
+    },
+    {
+        "nombre": "Observatorio Astronómico de La Plata",
+        "fundaciones": "22 de noviembre de 1883",
+        "descripcion": "La construcción de dicho Observatorio fue ordenada por un decreto del fundador de La Plata y luego gobernador de la provincia de Buenos Aires, Dardo Rocha, el 7 de mayo de 1881. En ese decreto, el Departamento de Ingeniería hace los planos y el presupuesto para varios edificios públicos, incluyendo al observatorio.",
+        "lat": -34.90833,
+        "lng": -57.93167,
+        "type": "Observatorios"
+    },
+    {
+        "nombre": "Museo de Astronomía y Geofísica de la UNLP",
+        "fundaciones": "1883",
+        "descripcion": "Nace como idea desde la fundación del Observatorio Astronómico La Plata en 1883, pero debieron pasar más de 100 años, para que en julio de 1997 la Facultad de Ciencias Astronómicas y Geofísicas decida su creación. En 2001 se inaugura su muestra permanente.",
+        "lat": -34.90833,
+        "lng": -57.93167,
+        "type": "Museo y Monumentos"
+    },{
+        "nombre": "Complejo Astronómico El Leoncito",
+        "fundaciones": "10 de mayo de 1983",
+        "descripcion": "Es un observatorio astronómico ubicado en el departamento Calingasta, al oeste de la provincia de San Juan, casi al pie de la cordillera de los Andes, Argentina. Se encuentra a 2552 m s. n. m., en las estribaciones occidentales de la Sierra del Tontal, en el cordón central o precordillera de San Juan, 30 kilómetros al sur de la localidad de Barreal.",
+        "lat": -31.7986,
+        "lng": -69.2956,
+        "type": "Observatorios"
+    },
+    {
+        "nombre": "Long Latin American Millimeter Array",
+        "fundaciones": "En construcción",
+        "descripcion": "Es un radiotelescopio cuya construcción está siendo planeada por Argentina y Brasil, y que podría comenzar a obtener financiamiento en 2015. Además de realizar investigación independiente, también sería utilizado en red con ALMA, en Chile, por lo que LLAMA estaría ubicado a unos 200 km, en Argentina.",
+        "lat": -24.192055555556,
+        "lng": -66.474833333333,
+        "type": "Otros"
+    },
+    {
+        "nombre": "Observatorio Astronómico de las Misiones",
+        "fundaciones": "Abril de 2019",
+        "descripcion": "Es una institución de investigación astronómica y educativa argentina perteneciente al Centro Educativo Ciencias de la Tierra y el Espacio del Parque del Conocimiento.",
+        "lat": -27.39543,
+        "lng": -55.96528,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Observatorio Astronómico de Mercedes",
+        "fundaciones": "1974",
+        "descripcion": "El Observatorio Astronómico Municipal de Mercedes (OAMM) fue creado en el año 1974, como reconocimiento oficial a las actividades iniciadas varios años antes (mediados de los años 60) por un grupo de aficionados. Lleva el nombre de quien fuera su fundador y primer director, Ing. Ángel Di Palma.",
+        "lat": -34.569722,
+        "lng": -59.413056,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Observatorio Astronómico de Monte Hermoso",
+        "fundaciones": "1998",
+        "descripcion": "Fue fundado por un grupo de aficionados a la astronomía de la localidad de Monte Hermoso, con el fin de construir un observatorio donde se pudieran reunir y aprender sobre esta ciencia, así como también para acercar las herramientas y los conocimientos a la población en general organizando charlas, observaciones y estudios en el campo de la astronomía.",
+        "lat": -38.97561111,
+        "lng": -61.31719444,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Observatorio Pierre Auger",
+        "fundaciones": "30 de enero de 1995",
+        "descripcion": "Situado en la ciudad de Malargüe, en la provincia de Mendoza, Argentina, es una iniciativa conjunta de 18 países en la que colaboran unos 500 científicos de 100 instituciones,1​ con la finalidad de detectar partículas subatómicas que provienen del espacio exterior denominadas rayos cósmicos.",
+        "lat": -35.292002,
+        "lng": -69.012117,
+        "type": "Otros"
+    },
+    {
+        "nombre": "Observatorio San José",
+        "fundaciones": "1913",
+        "descripcion": "Es un observatorio de astronomía amateur con sede en Buenos Aires, Argentina. La torre construida inicialmente en 1870 era un mirador que por ser la construcción más alta, fue declarado observatorio ideal del barrio de Balvanera. Es el observatorio astronómico más antiguo de Buenos Aires que todavía se mantiene en actividad.",
+        "lat": -34.60758889,
+        "lng": -58.401272,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Red de Espacio Profundo de China",
+        "fundaciones": "Antes del 2007",
+        "descripcion": "Es una red de grandes antenas e instalaciones de comunicación que dan soporte a las misiones de aeronaves lunares e interplanetarias de China, está dirigida por la Agencia Nacional China de Lanzamiento, Seguimiento y Control General de Satélites ",
+        "lat": -38.1914,
+        "lng": -70.1495,
+        "type": "Otros"
+    },
+    {
+        "nombre": "Observatorio Astronómico de Córdoba",
+        "fundaciones": "24 de octubre de 1871",
+        "descripcion": "Es una institución de investigación, docencia y extensión astronómica argentina perteneciente a la Universidad Nacional de Córdoba por el presidente Domingo F. Sarmiento y gestiones de su Ministro Nicolás Avellaneda, quien permitió a su pueblo tener un contacto directo con la astronomía.",
+        "lat": -31.4214,
+        "lng": -64.19893,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Parque Astronómico La Punta",
+        "fundaciones": "21 de junio de 2006",
+        "descripcion": "Es un parque astronómico dependiente de la Universidad de La Punta, ubicado en la Ciudad de La Punta, Provincia de San Luis, Argentina. Tiene como objetivo ayudar a la enseñanza y el aprendizaje de conceptos fundamentales de la astronomía observacional y a través de ella mejorar los conocimientos en las ciencias naturales.",
+        "lat": -33.152780,
+        "lng": -66.310594,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Observatorio Astronómico El Gato Gris",
+        "fundaciones": "diciembre de 2006",
+        "descripcion": "El primer objetivo del Observatorio tiene que ver con la observación, fotografía y estudio de objetos y fenómenos astronómicos, con la participación de aficionados y estudiantes. El segundo objetivo está vinculado a la difusión de la Astronomía, prestando especial atención a los estudiantes de todos los niveles de educación.",
+        "lat": -31.356913,
+        "lng": -64.593143,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Comisión Nacional de Actividades Espaciales",
+        "fundaciones": "28 de mayo de 1991",
+        "descripcion": "CONAE comenzó a funcionar la agencia, remplazando a la Comisión Nacional de Investigaciones Espaciales (CNIE) cuya historia se remonta al año 1960, esta última logró grandes hitos en las décadas de 1960 y 1970. Actualmente es el organismo competente para entender, diseñar, ejecutar, controlar, gestionar y administrar proyectos, actividades y emprendimientos en materia espacial en todo el ámbito de la República Argentina.",
+        "lat": -34.616653,
+        "lng": -58.369554,
+        "type": "Otros"
+    },
+    {
+        "nombre": "Estación Astronómica Austral Félix Aguilar",
+        "fundaciones": "10 de noviembre de 1960",
+        "descripcion": "Luego que el ingeniero Félix Aguilar asumiera la dirección del Observatorio Astronómico de La Plata en mayo de 1934, teniendo en cuenta la importancia de realizar mediciones fundamentales de estrellas cercanas al polo sur, para cumplir con este objetivo propone la creación de una estación al sur del territorio argentino.",
+        "lat": -49.844613,
+        "lng": -72.035841,
+        "type": "Museos y Monumentos"
+    },
+    {
+        "nombre": "Centro Astronómico Trelew",
+        "fundaciones": "1954",
+        "descripcion": "Es un observatorio ubicado enfrente de la Laguna Chiquichano siendo un lugar turístico ademas de poseer un parque publico. Es el único observatorio que se encuentra en toda la provincia.",
+        "lat": -43.245983,
+        "lng": -65.298757,
+        "type": "Observatorio"
+    },
+    {
+        "nombre": "Estación Astronómica Río Grande",
+        "fundaciones": "1979",
+        "descripcion": "Ha contribuido al monitoreo de la Rotación de la Tierra y el Movimiento del Polo y al mejoramiento de los catálogos estelares en el Hemisferio Sur, ademas de contribuir a programas espaciales y desarrollar, en forma conjunta con la Dirección de Turismo de la ciudad, la iniciativa *El Cielo de Río Grande* a través de la cual se promueven y llevan adelante actividades de divulgación de la Astronomía para el público general.",
+        "lat": -53.786034,
+        "lng": -67.751889,
+        "type": "Observatorios"
+    },
+    {
+        "nombre": "Planetario Ciudad de La Plata",
+        "fundaciones": "26 de junio de 2013",
+        "descripcion": "Es un planetario situado en el Paseo del Bosque de la ciudad argentina de La Plata, que es administrado por la Facultad de Ciencias Astronómicas y Geofísicas de la Universidad Nacional de La Plata (UNLP).",
+        "lat": -34.909164,
+        "lng": -57.932247,
+        "type": "Planetarios"
+    }
+]

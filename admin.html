@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitios de Interes</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body id="general">
+    
+    <section id="usuarios">
+        <div>
+            <div>
+                <h2>Lugares Astronomicos</h2>
+                <button id="btnModal">
+                    <img id="imgagregar" src="assets/img/mas.png">
+                </button>
+            </div>
+            <ul class="listado"></ul>
+        </div>
+    </section>
+    <div id="tvesModal" class="modalContainer">
+        <div class="modal-content">
+            <span class="close">×</span>
+            <section id="form">
+                <h2>Nuevo lugar</h2>
+                <form id="main_form" action="http://localhost:3000/markers" method="POST">
+                    <ul>
+                        <li>
+                            <div>
+                                <label>Nombre del lugar</label>
+                                <input type="text" id="nombre" name="nombre">
+                            </div>
+                            <div>
+                                <label>Fundacion</label> 
+                                <input type="date" id="date" name="date" value="2017-06-01" max="2021-12-31">
+                            </div>
+                            <div>
+                                <label>Categorias</label>
+                                <select name="type">
+                                <option value="">Elegir Categoria</option>
+                                <option value="CE">Centros Educativos</option>
+                                <option value="MM">Museos y Monumentos</option>
+                                <option value="Ob">Observatorios</option>
+                                <option value="P">Planetarios</option>
+                                <option value="Ot">Otro</option>
+                                </select>
+                            </div>    
+                        </li>
+                        <li id="coordenadas">
+                            <div>
+                                <label>Latitud</label> <br>
+                                <input type="text" id="latitud" name="lat">
+                            </div>
+                            <div>
+                                <label>Longitud</label> <br>
+                                <input type="text" id="longitud" name="lng">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <label>Descripcion del lugar...</label> <br>
+                                <textarea id="descripcion" name="descripcion"></textarea>
+                            </p>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li id="botonenviar">
+                            <button type="submit">enviar mensaje</button> 
+                        </li>
+                    </ul>
+                </form>
+                <p class="respuesta_form" style="display: none;"></p>
+            </section>
+        </div>
+    </div>
+     
+    <div id="tvesModal" class="modalContainer">
+        <div class="modal-content">
+            <span class="close">×</span>
+            <section id="form">
+                <h2>Editar Lugar</h2>
+                <form id="edit_form">
+                    <ul>
+                        <li>
+                            <div>
+                                <label>Nombre del lugar</label>
+                                <input type="text" id="nombre" name="nombre">
+                            </div>
+                            <div>
+                                <label>Fundacion</label> 
+                                <input type="date" id="date" name="date" value="2017-06-01" max="2021-12-31">
+                            </div>
+                            <div>
+                                <label>Categorias</label>
+                                <select name="type">
+                                <option value="">Elegir Categoria</option>
+                                <option value="CE">Centros Educativos</option>
+                                <option value="MM">Museos y Monumentos</option>
+                                <option value="Ob">Observatorios</option>
+                                <option value="P">Planetarios</option>
+                                <option value="Ot">Otro</option>
+                                </select>
+                            </div>    
+                        </li>
+                        <li id="coordenadas">
+                            <div>
+                                <label>Latitud</label> <br>
+                                <input type="text" id="latitud" name="lat">
+                            </div>
+                            <div>
+                                <label>Longitud</label> <br>
+                                <input type="text" id="longitud" name="lng">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <label>Descripcion del lugar...</label> <br>
+                                <textarea id="descripcion" name="descripcion"></textarea>
+                            </p>
+                        </li>
+                    </ul>
+                    <input type="hidden" placeholder="Type" name="_id">
+                    <ul>
+                        <li id="botonenviar">
+                            <button type="submit" value="Editar">Editar</button> 
+                        </li>
+                    </ul>
+                </form>
+                <p class="respuesta_form" style="display: none;"></p>
+            </section>
+        </div>
+    </div> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha512-UdIMMlVx0HEynClOIFSyOrPggomfhBKJE28LKl8yR3ghkgugPnG6iLfRfHwushZl1MOPSY6TsuBDGPK2X4zYKg==" crossorigin="anonymous"></script>
+    <script src="assets/js/main.js"></script>  
+</body>
+</html>
